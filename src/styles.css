@@ -1,0 +1,14 @@
+.selected{
+    transform:scale(1.2)
+}
+main, header{
+    text-align: center;
+}
+
+div.contact{
+    display: flex;
+    flex-direction: column;
+}
+table{
+    margin: 0 auto;
+}
